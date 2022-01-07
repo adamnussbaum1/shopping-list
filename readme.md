@@ -1,3 +1,6 @@
 - Bacon
 - Eggs
 - Xbox
+- Cheese
+- Cereal 
+- Gatorade
